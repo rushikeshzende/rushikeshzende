@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Zende</h1>
 <h3 align="center">A passionate frontend developer and Zealous about AI and ML, from India</h3>
 
-<img align="right" alt="coding" wudth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw3Ykv-EV8J9JkU2vOu66lYk&ust=1721846403672000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjC2fHnvYcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" wudth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2RWhrAXqd6DETIYL06LWwg&ust=1721847062048000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCB3qnqvYcDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshzende&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshzende" /> </p>
 
