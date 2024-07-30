@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart College Enquiry Chatbot Using Deep Learning Algorithm**
 
-- 🌱 I’m currently learning **google cybersecurity, data science**
+- 🌱 I’m currently learning **Google Cybersecurity, Data Science, Generative AI**
 
 - 🤝 I’m looking for help with **Smart College Enquiry Chatbot Using Deep Learning Algorithm**
 
