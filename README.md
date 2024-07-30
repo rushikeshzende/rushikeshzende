@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Smart College Enquiry Chatbot Using Deep Learning Algorithm**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, JAVA, AI & ML**
+- 💬 Ask me about **HTML, PYTHON, JAVA, AI & ML**
 
 - 📫 How to reach me **rushikeshzende0303@gmail.com**
 
