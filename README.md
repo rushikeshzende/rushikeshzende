@@ -1,60 +1,110 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Zende</h1>
-<h3 align="center">A passionate Frontend Developer and Zealous about AI and ML, from India</h3>
+# 👋 Hi, I'm Rushikesh Zende
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+**AI Engineer | Applied Machine Learning & Deep Learning | Intelligent Systems Architect**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshzende&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshzende" /> </p>
-
-### 🏆 **Achievements**
-- 🥇 **AIR 21** in National Engineering Olympiad Round 1
-- 🥈 **2nd Rank** in Drama Competition at College Cultural Fest
-- 📜 Completed **Data Analytics with Python** (NPTEL - IIT Roorkee)
-- 📜 Completed **Python for Data Science** (NPTEL)
-- 📜 Completed **Google Cybersecurity Level 1** (Coursera)
-- 📜 Completed **Google Cybersecurity Level 2** (Coursera)
-
-### 🔭 **Current Projects**
-- 🚀 Working on **Smart College Enquiry Chatbot Using Deep Learning Algorithm**
-
-### 📚 **Learning Focus**
-- 🌱 Currently exploring **Data Science, Generative AI**
-
-### 🤝 **Collaboration Goals**
-- 🤝 Looking for contributors to **Smart College Enquiry Chatbot Using Deep Learning Algorithm**
-
-### 💬 **Ask Me About**
-- 💻 **HTML, Python, Java, AI & ML**
-
-### 📫 **Reach Me At**
-- 📧 **rushikeshzende0303@gmail.com**
-
-### ⚡ **Fun Fact**
-- 😜 **I'm known for my witty remarks and unique problem-solving mindset!**
+I design and build end-to-end AI systems that learn from data, adapt to real-world complexity, and deliver measurable impact. My work spans machine learning, deep learning, and full-stack system integration—turning raw ideas into production-ready intelligence.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushikesh zende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh zende" height="30" width="40" /></a>
-<a href="https://fb.com/rushikesh zende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rushikesh zende" height="30" width="40" /></a>
-<a href="https://instagram.com/btwitz_rushiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitz_rushiii" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+
+It started with a simple question:
+
+**"What if machines could learn the way I do—by building, breaking, and iterating?"**
+
+That curiosity evolved into a craft. I now focus on architecting intelligent systems—from data pipelines and feature engineering to model training, evaluation, and deployment. My projects explore how AI can move beyond experiments and operate reliably in real environments. I've worked on:
+
+- Vision systems that interpret patterns humans miss
+- Predictive models that reduce uncertainty in dynamic domains
+- Decision-support systems for healthcare and agriculture
+
+I'm not just training models—I'm building **capability**.
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-</p>
+## 🧠 Core Skills
+
+### Machine Learning & AI
+
+- Supervised Learning (Regression, Classification)
+- Model Evaluation (R², MAE, RMSE, Cross-Validation)
+- Feature Engineering & Data Preprocessing
+- Bias-Variance Tradeoff
+
+### Deep Learning
+
+- Convolutional Neural Networks (CNNs)
+- Transfer Learning
+- Computer Vision Pipelines
+- Model Optimization & Experimentation
+
+### Programming & Tools
+
+- **Python**, **Java**
+- NumPy, Pandas, Scikit-learn
+- TensorFlow / Keras, PyTorch
+- Data Analysis & EDA
+
+### Domains
+
+- Healthcare AI
+- Agricultural Decision Systems
+- Predictive Analytics
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshzende&show_icons=true&locale=en&layout=compact" alt="rushikeshzende" /></p>
+## 🏗️ Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshzende&show_icons=true&locale=en" alt="rushikeshzende" /></p>
+### **Software Engineering Intern**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshzende&" alt="rushikeshzende" /></p>
+**Sumago Infotech Pvt. Ltd.** — Nashik, Maharashtra
+
+*Dec 2023 – Jan 2024*
+
+- Collaborated on a **Healthcare Management System** built using Java
+- Worked across backend logic, data handling, and system workflows
+- Gained hands-on exposure to full-stack development and team-based engineering
+- Strengthened understanding of production-level software practices
+
+---
+
+## 🎓 Education
+
+- **PGDAI – Post Graduate Diploma in Artificial Intelligence**
+  - *Artificial Intelligence & Machine Learning*
+  - **CDAC, Guwahati**
+  - *(Expected Aug 2025)*
+
+- **B.E. in Information Technology**
+  - **Savitribai Phule Pune University**
+  - *(2021)*
+
+---
+
+## 📜 Certifications
+
+- Data Analytics with Python
+- Python for Data Science
+- Data Science for Engineers
+- Foundations of Cybersecurity
+- Play It Safe: Manage Security Risks
+
+---
+
+## 🔬 What I'm Focused On
+
+- Building **end-to-end ML/DL pipelines**
+- Designing systems that scale beyond notebooks
+- Applying AI to **real decision-making problems**
+- Bridging research thinking with product execution
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** rushikeshzende0303@gmail.com
+- **LinkedIn:** [linkedin.com/in/rushikesh-zende](https://www.linkedin.com/in/rushikesh-zende)
+
+---
+
+> *Identify what matters. Engineer intelligently. Ship systems that deliver.*
